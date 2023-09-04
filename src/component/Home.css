@@ -1,0 +1,7 @@
+.Home{
+    padding: 10px;
+}
+.Home.windowOpen{
+    opacity: 0.5;
+}
+
